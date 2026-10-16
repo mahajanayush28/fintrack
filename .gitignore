@@ -4,4 +4,3 @@ build/
 *.log
 .DS_Store
 .next/
-.env
